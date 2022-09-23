@@ -1,7 +1,4 @@
 {
-	"code": 200,
-	"msg": "success",
-	"data": {
 		"document": {
 			"un_register": {
 				"status": "0",
@@ -201,5 +198,4 @@
 		"copyright_list": [],
 		"msg_total": "1",
 		"share_app_url": "https://wwt.lanzouy.com/iPcIN0bylu9g"
-	}
 }
