@@ -1,0 +1,50 @@
+{
+	"code": 200,
+	"msg": "success",
+	"data": {
+		"document": {
+			"un_register": {
+				"status": "0",
+				"title": "",
+				"content": "",
+				"type": "un_register"
+			},
+			"registerd": {
+				"status": "1",
+				"title": "msg",
+				"content": "",
+				"type": "registerd"
+			},
+			"notice": {
+				"status": "0",
+				"title": "msg2",
+				"content": "",
+				"type": "notice"
+			},
+			"roll_notice": {
+				"status": "0",
+				"title": null,
+				"content": "",
+				"type": "roll_notice"
+			},
+			"home_notice": {
+				"status": "0",
+				"title": null,
+				"content": "",
+				"type": "home_notice"
+			},
+			"game_notice": {
+				"status": "0",
+				"title": null,
+				"content": "",
+				"type": "game_notice"
+			}
+		},
+		"comment": {
+			"sg": ""
+		},
+		"copyright_list": [],
+		"msg_total": "13",
+		"share_app_url": ""
+	}
+}
