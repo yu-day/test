@@ -1,7 +1,4 @@
 {
-	"code": 200,
-	"msg": "success",
-	"data": {
 		"app_version_id": 2,
 		"os": 1,
 		"version": "5.5.0",
@@ -13,4 +10,3 @@
 		"is_required": 1,
 		"type": 2
 	}
-}
