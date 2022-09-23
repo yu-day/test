@@ -10,7 +10,7 @@
 				"type": "un_register"
 			},
 			"registerd": {
-				"status": "0",
+				"status": "1",
 				"title": "公告",
 				"content": "新版本发布\n 修复已知问题",
 				"type": "registerd"
