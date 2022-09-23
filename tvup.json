@@ -1,0 +1,205 @@
+{
+	"code": 200,
+	"msg": "success",
+	"data": {
+		"document": {
+			"un_register": {
+				"status": "0",
+				"title": "",
+				"content": "",
+				"type": "un_register"
+			},
+			"registerd": {
+				"status": "0",
+				"title": "公告",
+				"content": "新版本发布\n 修复已知问题",
+				"type": "registerd"
+			},
+			"notice": {
+				"status": "0",
+				"title": "msg2",
+				"content": "msg2",
+				"type": "notice"
+			},
+			"roll_notice": {
+				"status": "0",
+				"title": null,
+				"content": "",
+				"type": "roll_notice"
+			},
+			"home_notice": {
+				"status": "0",
+				"title": null,
+				"content": "",
+				"type": "home_notice"
+			},
+			"game_notice": {
+				"status": "0",
+				"title": null,
+				"content": "",
+				"type": "game_notice"
+			}
+		},
+		"ads": {
+			"user_center": {
+				"id": 52,
+				"typename": "ad1",
+				"status": 0,
+				"sort": 0,
+				"tag": "user_center",
+				"description": "",
+				"create_time": 1560965440,
+				"update_time": 1593330630
+			},
+			"searcher": {
+				"id": 53,
+				"typename": "ad2",
+				"status": 0,
+				"sort": 0,
+				"tag": "searcher",
+				"description": "",
+				"create_time": 1560965460,
+				"update_time": 1595157884
+			},
+			"player_pause": {
+				"id": 54,
+				"typename": "ad3",
+				"status": 0,
+				"sort": 0,
+				"tag": "player_pause",
+				"description": "",
+				"create_time": 1560965485,
+				"update_time": 1572960349
+			},
+			"player_down": {
+				"id": 55,
+				"typename": "ad4",
+				"status": 0,
+				"sort": 0,
+				"tag": "player_down",
+				"description": "",
+				"create_time": 1560965505,
+				"update_time": 1584348125
+			},
+			"variety": {
+				"id": 56,
+				"typename": "ad5",
+				"status": 0,
+				"sort": 0,
+				"tag": "variety",
+				"description": "",
+				"create_time": 1560965569,
+				"update_time": 1583861143
+			},
+			"cartoon": {
+				"id": 57,
+				"typename": "ad6",
+				"status": 0,
+				"sort": 0,
+				"tag": "cartoon",
+				"description": "",
+				"create_time": 1560965583,
+				"update_time": 1583861131
+			},
+			"sitcom": {
+				"id": 58,
+				"typename": "ad7",
+				"status": 0,
+				"sort": 0,
+				"tag": "sitcom",
+				"description": "",
+				"create_time": 1560965601,
+				"update_time": 1583861119
+			},
+			"vod": {
+				"id": 59,
+				"typename": "ad8",
+				"status": 0,
+				"sort": 0,
+				"tag": "vod",
+				"description": "",
+				"create_time": 1560965614,
+				"update_time": 1583861103
+			},
+			"index": {
+				"id": 60,
+				"typename": "ad9",
+				"status": 0,
+				"sort": 0,
+				"tag": "index",
+				"description": "",
+				"create_time": 1560965629,
+				"update_time": 1584348142
+			},
+			"startup_adv": {
+				"id": 61,
+				"typename": "ad10",
+				"status": 0,
+				"sort": 0,
+				"tag": "startup_adv",
+				"description": "",
+				"create_time": 1560965647,
+				"update_time": 1594491349
+			},
+			"bannerads": {
+				"id": 62,
+				"typename": "ad11",
+				"status": 0,
+				"sort": 0,
+				"tag": "BannerAds",
+				"description": "",
+				"create_time": 1560965452,
+				"update_time": 1649402181
+			},
+			"rewardedads": {
+				"id": 63,
+				"typename": "ad12",
+				"status": 0,
+				"sort": 0,
+				"tag": "RewardedAds",
+				"description": "",
+				"create_time": 1560965463,
+				"update_time": 1630214137
+			},
+			"openExampleads": {
+				"id": 64,
+				"typename": "ad13",
+				"status": 0,
+				"sort": 0,
+				"tag": "OpenExampleAds",
+				"description": "",
+				"create_time": 1560965463,
+				"update_time": 1630214137
+			},
+			"interstitialads": {
+				"id": 65,
+				"typename": "ad14",
+				"status": 0,
+				"sort": 0,
+				"tag": "InterstitialAds",
+				"description": "",
+				"create_time": 1560965463,
+				"update_time": 1630214137
+			},
+			"nativeads": {
+				"id": 66,
+				"typename": "ad15",
+				"status": 0,
+				"sort": 0,
+				"tag": "NativeAds",
+				"description": "",
+				"create_time": 1560965463,
+				"update_time": 1630214137
+			},
+			"startup_config": {
+				"status": 1
+			}
+		},
+		"comment": {
+			"sg": ""
+		},
+		"copyright_list": [],
+		"msg_total": "1",
+		"share_app_url": "https://wwt.lanzouy.com/iPcIN0bylu9g"
+	}
+}
